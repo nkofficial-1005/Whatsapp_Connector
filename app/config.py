@@ -2,7 +2,7 @@ import sys
 import os
 from dotenv import load_dotenv
 import logging
-
+ 
 
 def load_configurations(app):
     load_dotenv()
